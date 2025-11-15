@@ -13,9 +13,17 @@ header {
 body {
     background-image: url("IAMPERSON.jpeg");
     text-align: center;
-}
-p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
+    cursor:url("icons8-cursor-120.png");
+    
+}
+
+  
+    
+
+p {
+    
     color: chocolate;
     text-align: center;
 }
@@ -24,11 +32,13 @@ img.rickroll {
     width: 600px;
     border-radius: 30px;
     border: 10px solid orangered;
+    box-shadow: 0px 0px 300px blue;
 
 }
 img.rickroll:hover {
     box-shadow:0px 0px 400px red;
 }
+
 img.gifs:hover {
     box-shadow:0px 0px 400px red;
 }
