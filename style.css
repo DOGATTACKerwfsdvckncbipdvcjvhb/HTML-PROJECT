@@ -12,6 +12,7 @@ header {
 }
 body {
     background-image: url("IAMPERSON.jpeg");
+    background-repeat: repeat;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
