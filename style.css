@@ -15,8 +15,11 @@ body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    cursor:url("icons8-cursor-120.png");
     
+    
+}
+*{
+    cursor:url("icons8-cursor-120.png"),auto;
 }
 
   
